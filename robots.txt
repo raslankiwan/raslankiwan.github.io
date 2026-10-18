@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raslankiwan.github.io/sitemap.xml
